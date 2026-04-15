@@ -8,9 +8,9 @@ As principais dores apontadas pela nossa cliente foram: gestão de estoque sem u
 
 ## Descrição do Projeto
 
-Esse projeto implementa um site para uma loja de roupas infantis para meninos e meninas. O nosso site apresenta um catálogo das roupas disponíveis, em que o cliente pode observar as roupas em destaque, realizar buscar específicas ou escolher o gênero (menino ou menina) e uma categoria (camisa, pijama, vestido, etc). O cliente tem acesso a informações de contato, redes sociais, endereço, políticas de troca e frete e, além disso, caso ele deseje, pode se inscrever com um email na newsletter para receber todas as novidades!
+Esse projeto implementa um site para a loja de roupas infantis, **Mundo Nino & Nina**. O nosso site apresenta um catálogo das roupas disponíveis, em que o cliente pode observar as roupas em destaque, realizar buscar específicas ou escolher o gênero (menino ou menina) e uma categoria (camisa, pijama, vestido, etc). O cliente tem acesso a informações de contato, redes sociais, endereço, políticas de troca e frete e, além disso, caso ele deseje, pode se inscrever com um email na newsletter para receber todas as novidades.
 
-O site também possui uma área restrita, acessada mediante login, em que a proprietária da loja pode adicionar mais produtos a sua loja ou atualizar informações de produtos que já estavam disponíveis para as clientes.
+O site também possui uma área restrita, acessada mediante login, em que a proprietária pode adicionar mais produtos a sua loja ou atualizar informações de produtos que já estavam disponíveis para os clientes.
 
 ## Participantes
 - Caroline Akimi Kurosaki Ueda - 15445630
