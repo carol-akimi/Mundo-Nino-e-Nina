@@ -1,0 +1,834 @@
+[
+  {
+    "nome": "Conjunto Verão Nino",
+    "preco": 129.9,
+    "descricao": "Conjunto leve para o verão, blusa de algodão e bermuda de linho.",
+    "genero": "menino",
+    "categoria": "Conjuntos",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 3
+      },
+      {
+        "tamanho": "4",
+        "estoque": 5
+      },
+      {
+        "tamanho": "6",
+        "estoque": 0
+      }
+    ]
+  },
+  {
+    "nome": "Vestido Floral Nina",
+    "preco": 159.9,
+    "descricao": "Vestido floral delicado ideal para festas diurnas.",
+    "genero": "menina",
+    "categoria": "Vestidos",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 1
+      },
+      {
+        "tamanho": "6",
+        "estoque": 4
+      }
+    ]
+  },
+  {
+    "nome": "Camisa Polo Clássica",
+    "preco": 89.9,
+    "descricao": "Polo clássica para conforto e estilo nos passeios.",
+    "genero": "menino",
+    "categoria": "Camisas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 5
+      },
+      {
+        "tamanho": "8",
+        "estoque": 1
+      }
+    ]
+  },
+  {
+    "nome": "Saia de Tule com Brilhos",
+    "preco": 119.9,
+    "descricao": "Saia com tule importado e brilho discreto para festas.",
+    "genero": "menina",
+    "categoria": "Saias",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 3
+      },
+      {
+        "tamanho": "8",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Calça Jeans Confort",
+    "preco": 139.9,
+    "descricao": "Jeans macio com elastano que não limita os movimentos do menino.",
+    "genero": "menino",
+    "categoria": "Calças",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 2
+      },
+      {
+        "tamanho": "10",
+        "estoque": 3
+      }
+    ]
+  },
+  {
+    "nome": "Macacão Primavera",
+    "preco": 169.9,
+    "descricao": "Macacão super elegante, prático e fresquinho para passeios de domingo.",
+    "genero": "menina",
+    "categoria": "Macacões",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 2
+      },
+      {
+        "tamanho": "6",
+        "estoque": 5
+      }
+    ]
+  },
+  {
+    "nome": "Jaqueta Corta-Vento",
+    "preco": 199.9,
+    "descricao": "Jaqueta super estilosa para proteger do vento em dias frios.",
+    "genero": "menino",
+    "categoria": "Jaquetas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 2
+      },
+      {
+        "tamanho": "8",
+        "estoque": 4
+      }
+    ]
+  },
+  {
+    "nome": "Bermuda Cargo Aventura",
+    "preco": 99.9,
+    "descricao": "Bermuda resistente com vários bolsos para passeios na natureza.",
+    "genero": "menino",
+    "categoria": "Bermudas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "6",
+        "estoque": 3
+      },
+      {
+        "tamanho": "10",
+        "estoque": 5
+      }
+    ]
+  },
+  {
+    "nome": "Short Praia Divertido",
+    "preco": 69.9,
+    "descricao": "Short com estampa divertida e secagem rápida para dia de piscina.",
+    "genero": "menino",
+    "categoria": "Shorts",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 4
+      },
+      {
+        "tamanho": "4",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Blusa Moletom Dinossauro",
+    "preco": 149.9,
+    "descricao": "Blusa quentinha de moletom com estampa em relevo 3D.",
+    "genero": "menino",
+    "categoria": "Blusas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 1
+      },
+      {
+        "tamanho": "6",
+        "estoque": 3
+      }
+    ]
+  },
+  {
+    "nome": "Conjunto Inverno Encantado",
+    "preco": 209.9,
+    "descricao": "Conjunto bem quentinho de inverno para ficar protegida e linda.",
+    "genero": "menina",
+    "categoria": "Conjuntos",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 2
+      },
+      {
+        "tamanho": "8",
+        "estoque": 4
+      }
+    ]
+  },
+  {
+    "nome": "Blusa Algodão Doce",
+    "preco": 79.9,
+    "descricao": "Blusinha de algodão leve com babado nos ombros e caimento perfeito.",
+    "genero": "menina",
+    "categoria": "Blusas",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 5
+      }
+    ]
+  },
+  {
+    "nome": "Short Saia Florido",
+    "preco": 89.9,
+    "descricao": "O charme de uma saia e com o conforto de um short por baixo.",
+    "genero": "menina",
+    "categoria": "Shorts",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 6
+      },
+      {
+        "tamanho": "6",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Pijama Nuvem Suave",
+    "preco": 119.9,
+    "descricao": "Pijama super macio perfeito para noites tranquilas de sono.",
+    "genero": "menina",
+    "categoria": "Pijamas",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 3
+      },
+      {
+        "tamanho": "8",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Camisa Polo Estampada",
+    "preco": 85.9,
+    "descricao": "Camisa polo super estilosa para usar em qualquer lugar.",
+    "genero": "menino",
+    "categoria": "Camisas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 2
+      },
+      {
+        "tamanho": "4",
+        "estoque": 5
+      }
+    ]
+  },
+  {
+    "nome": "Vestido Festa Especial",
+    "preco": 179.9,
+    "descricao": "Um vestido lindo cheio de encanto para momentos inesquecíveis.",
+    "genero": "menina",
+    "categoria": "Vestidos",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "6",
+        "estoque": 1
+      },
+      {
+        "tamanho": "8",
+        "estoque": 3
+      }
+    ]
+  },
+  {
+    "nome": "Moletom Gamer",
+    "preco": 139.9,
+    "descricao": "Moletom muito quentinho e divertido.",
+    "genero": "menino",
+    "categoria": "Moletom",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 2
+      },
+      {
+        "tamanho": "10",
+        "estoque": 4
+      }
+    ]
+  },
+  {
+    "nome": "Macacão Pantacourt",
+    "preco": 149.9,
+    "descricao": "Macacão super confortável para o verão.",
+    "genero": "menina",
+    "categoria": "Macacões",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 5
+      },
+      {
+        "tamanho": "6",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Calça Jeans Jogger",
+    "preco": 159.9,
+    "descricao": "Calça moderna com elástico e super macia.",
+    "genero": "menino",
+    "categoria": "Calças",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 4
+      },
+      {
+        "tamanho": "8",
+        "estoque": 3
+      }
+    ]
+  },
+  {
+    "nome": "Saia Rodada Jeans",
+    "preco": 99.9,
+    "descricao": "Saia clássica que combina com tudo.",
+    "genero": "menina",
+    "categoria": "Saias",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 2
+      },
+      {
+        "tamanho": "10",
+        "estoque": 5
+      }
+    ]
+  },
+  {
+    "nome": "Bermuda Moletinho",
+    "preco": 85.9,
+    "descricao": "Para brincar com todo o conforto do mundo.",
+    "genero": "menino",
+    "categoria": "Bermudas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 3
+      },
+      {
+        "tamanho": "6",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Blusa Corações",
+    "preco": 65.9,
+    "descricao": "Blusa fresquinha com estampas fofas.",
+    "genero": "menina",
+    "categoria": "Blusas",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 6
+      }
+    ]
+  },
+  {
+    "nome": "Conjunto Moletom Infantil",
+    "preco": 199.9,
+    "descricao": "Conjunto pronto para usar e arrasar no frio.",
+    "genero": "menino",
+    "categoria": "Conjuntos",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 2
+      },
+      {
+        "tamanho": "8",
+        "estoque": 4
+      }
+    ]
+  },
+  {
+    "nome": "Conjunto Verão Nina",
+    "preco": 129.9,
+    "descricao": "Conjunto levinho para os dias de sol intenso.",
+    "genero": "menina",
+    "categoria": "Conjuntos",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 3
+      },
+      {
+        "tamanho": "6",
+        "estoque": 1
+      }
+    ]
+  },
+  {
+    "nome": "Short Água Verão",
+    "preco": 75.9,
+    "descricao": "Material feito para secar super rápido.",
+    "genero": "menino",
+    "categoria": "Shorts",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "6",
+        "estoque": 2
+      },
+      {
+        "tamanho": "10",
+        "estoque": 4
+      }
+    ]
+  },
+  {
+    "nome": "Calça Legging Básica",
+    "preco": 89.9,
+    "descricao": "Sempre bom ter no armário para o dia a dia.",
+    "genero": "menina",
+    "categoria": "Calças",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 3
+      },
+      {
+        "tamanho": "8",
+        "estoque": 5
+      }
+    ]
+  },
+  {
+    "nome": "Jaqueta Jeans Premium",
+    "preco": 189.9,
+    "descricao": "Super descolada e combina com qualquer modelo.",
+    "genero": "menino",
+    "categoria": "Jaquetas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 1
+      },
+      {
+        "tamanho": "6",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Vestido Algodão Fresco",
+    "preco": 115.9,
+    "descricao": "Ideal para bater no dia a dia e passeios no parque.",
+    "genero": "menina",
+    "categoria": "Vestidos",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 4
+      },
+      {
+        "tamanho": "10",
+        "estoque": 1
+      }
+    ]
+  },
+  {
+    "nome": "Pijama Foguete Escuro",
+    "preco": 105.9,
+    "descricao": "Pijama que brilha no escuro.",
+    "genero": "menino",
+    "categoria": "Pijamas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 3
+      },
+      {
+        "tamanho": "8",
+        "estoque": 4
+      }
+    ]
+  },
+  {
+    "nome": "Pijama Borboletas Mágicas",
+    "preco": 105.9,
+    "descricao": "Super macio para as meninas descansarem relaxadas.",
+    "genero": "menina",
+    "categoria": "Pijamas",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 5
+      },
+      {
+        "tamanho": "6",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Camisa Social Branca",
+    "preco": 119.9,
+    "descricao": "Para aqueles eventos mais elegantes em família.",
+    "genero": "menino",
+    "categoria": "Camisas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "6",
+        "estoque": 2
+      },
+      {
+        "tamanho": "8",
+        "estoque": 1
+      }
+    ]
+  },
+  {
+    "nome": "Macacão Curto Xadrez",
+    "preco": 139.9,
+    "descricao": "Um macacão com estilo único e super arejado.",
+    "genero": "menina",
+    "categoria": "Macacões",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 2
+      },
+      {
+        "tamanho": "10",
+        "estoque": 3
+      }
+    ]
+  },
+  {
+    "nome": "Moletom Laranja Dinossauro",
+    "preco": 139.9,
+    "descricao": "Cor forte e divertida para alegrar o dia no outono.",
+    "genero": "menino",
+    "categoria": "Moletom",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 4
+      },
+      {
+        "tamanho": "6",
+        "estoque": 1
+      }
+    ]
+  },
+  {
+    "nome": "Jaqueta Peluciada",
+    "preco": 229.9,
+    "descricao": "O máximo de calor. Jaqueta premium por dentro e por fora.",
+    "genero": "menina",
+    "categoria": "Jaquetas",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 1
+      },
+      {
+        "tamanho": "8",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Conjunto Praia Tubarão",
+    "preco": 159.9,
+    "descricao": "Com proteção UV.",
+    "genero": "menino",
+    "categoria": "Conjuntos",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 2
+      },
+      {
+        "tamanho": "4",
+        "estoque": 5
+      }
+    ]
+  },
+  {
+    "nome": "Conjunto Praia Sereia",
+    "preco": 159.9,
+    "descricao": "Com proteção UV para não se preocupar no sol.",
+    "genero": "menina",
+    "categoria": "Conjuntos",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "6",
+        "estoque": 3
+      },
+      {
+        "tamanho": "8",
+        "estoque": 4
+      }
+    ]
+  },
+  {
+    "nome": "Calça Sarja Areia",
+    "preco": 149.9,
+    "descricao": "Aquela roupa coringa que combina com todo estilo.",
+    "genero": "menino",
+    "categoria": "Calças",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 2
+      },
+      {
+        "tamanho": "10",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Vestido Listrado Azul",
+    "preco": 125.9,
+    "descricao": "Padrão listrado lindíssimo para qualquer comemoração.",
+    "genero": "menina",
+    "categoria": "Vestidos",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 1
+      },
+      {
+        "tamanho": "6",
+        "estoque": 5
+      }
+    ]
+  },
+  {
+    "nome": "Bermuda Jeans Destroyed",
+    "preco": 109.9,
+    "descricao": "Super na moda, estilo urbano que é tendência.",
+    "genero": "menino",
+    "categoria": "Bermudas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 3
+      },
+      {
+        "tamanho": "8",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Short Saia Rosa Bebê",
+    "preco": 95.9,
+    "descricao": "Tom de rosa suave muito agradável para compor visuais.",
+    "genero": "menina",
+    "categoria": "Shorts",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 4
+      },
+      {
+        "tamanho": "10",
+        "estoque": 1
+      }
+    ]
+  },
+  {
+    "nome": "Camisa Flanela Lenhador",
+    "preco": 139.9,
+    "descricao": "Camisa xadrez flanelada perfeita para aquecer no frio com atitude.",
+    "genero": "menino",
+    "categoria": "Camisas",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "6",
+        "estoque": 3
+      },
+      {
+        "tamanho": "8",
+        "estoque": 4
+      }
+    ]
+  },
+  {
+    "nome": "Macacão Pantalona Verde",
+    "preco": 189.9,
+    "descricao": "A classe da pantalona num modelo adaptado com muita fluidez.",
+    "genero": "menina",
+    "categoria": "Macacões",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 2
+      },
+      {
+        "tamanho": "6",
+        "estoque": 2
+      }
+    ]
+  },
+  {
+    "nome": "Short Tactel Básico",
+    "preco": 69.9,
+    "descricao": "O clássico barato e necessário pro seu pequeno correr muito.",
+    "genero": "menino",
+    "categoria": "Shorts",
+    "imagem": "data/roupa-menino.jpeg",
+    "destaque": false,
+    "tamanhos": [
+      {
+        "tamanho": "2",
+        "estoque": 5
+      },
+      {
+        "tamanho": "8",
+        "estoque": 3
+      }
+    ]
+  },
+  {
+    "nome": "Blusa Tule Manga Princesa",
+    "preco": 99.9,
+    "descricao": "Essa não pode faltar. Detalhes maravilhosos nas mangas.",
+    "genero": "menina",
+    "categoria": "Blusas",
+    "imagem": "data/roupa-menina.jpg",
+    "destaque": true,
+    "tamanhos": [
+      {
+        "tamanho": "4",
+        "estoque": 2
+      },
+      {
+        "tamanho": "10",
+        "estoque": 1
+      }
+    ]
+  }
+]

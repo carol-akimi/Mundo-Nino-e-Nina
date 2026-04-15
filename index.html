@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mundo Nino & Nina</title>
+    <meta name="description" content="Mundo Nino & Nina — roupas infantis estilosas e confortáveis para meninos e meninas de 0 a 10 anos.">
+    <link rel="icon" href="data/logo.jpg" type="image/jpeg">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home">
+
+    <!-- Header (components.js) -->
+    <div id="global-header"></div>
+
+    <!-- Banner e Botões -->
+    <section class="hero-section">
+        <h1 class="hero-title">Bem Vindo(A)</h1>
+        <p class="hero-subtitle">As roupinhas mais estilosas e confortáveis para os seus pequenos.</p>
+        
+        <div class="hero-buttons">
+            <!-- Links que mudam as telas -->
+            <a href="secoes.html?genero=menino" class="btn-large btn-meninos">Catálogo Meninos</a>
+            <a href="secoes.html?genero=menina" class="btn-large btn-meninas">Catálogo Meninas</a>
+        </div>
+    </section>
+
+    <main class="container">
+        <!-- Produtos em Destaque -->
+        <section>
+            <h2 class="section-title">Em Destaque</h2>
+            <!-- Gride renderizado pelo Javascript -->
+            <div id="highlights-grid" class="product-grid">
+                <!-- adiciona os componentes -->
+                <p class="grid-placeholder">Carregando destaques...</p>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Aba de Newsletter -->
+    <section class="newsletter">
+        <div class="container">
+            <h3 class="newsletter-title">Receba Nossas Novidades</h3>
+            <p class="newsletter-subtitle">Cadastre-se para dicas e descontos exclusivos!</p>
+            <form id="nl-form">
+                <input type="email" placeholder="Digite seu melhor e-mail" required>
+                <button type="submit">Inscrever-se</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer (components.js) -->
+    <div id="global-footer"></div>
+
+    <script src="js/components.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
